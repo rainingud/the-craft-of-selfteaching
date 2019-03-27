@@ -2,6 +2,7 @@
 
 > One has no future if one couldn't teach themself<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
 
+
 # 自学是门手艺
 
 > 没有自学能力的人没有未来
@@ -85,7 +86,7 @@ teach_yourself(coding)
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
 ![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true "CC-BY-NC-ND")
-
+**test for commit the first time*
 -----
 **脚注**
 
